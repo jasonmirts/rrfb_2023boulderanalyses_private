@@ -43,13 +43,14 @@ R:
 
 2. Installation Instructions
 ----------------------------
-Outside of setting R's project and/or working directory to the location of the Excel file, each script is fully self-sufficient and should be able to function by using
 
-- Download R and R studio
-  
-All scripts (i.e., .R and .qmd files) should 
-- Download the project files by cloning the GitHub repository:
-    [https://github.com/username/project-name.git](git clone]
+- Download latest version of [https://github.com/username/project-name.git](https://www.r-project.org/](R] and [https://github.com/username/project-name.git(https://posit.co/download/rstudio-desktop/)](R Studio]
+- Download [https://github.com/username/project-name.git(https://posit.co/download/rstudio-desktop/](https://quarto.org/)](R Studio]  
+- Download the project files by cloning the [https://github.com/username/project-name.git](rrfb_2023boulderanalyses repository]
+- Open R Studio
+- Install and load packages
+- Set the directory
+- Run the code
 
 3. Usage
 ---------
