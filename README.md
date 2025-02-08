@@ -45,8 +45,7 @@ R:
 ----------------------------
 
 - Download latest version of [R](https://www.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/)
- 
-- Download [https://github.com/username/project-name.git(https://posit.co/download/rstudio-desktop/](https://quarto.org/)](R Studio]  
+- Download [Quarto](https://posit.co/download/rstudio-desktop/](https://quarto.org/)
 - Download the project files by cloning the [https://github.com/username/project-name.git](rrfb_2023boulderanalyses repository]
 - Open R Studio
 - Install and load packages
