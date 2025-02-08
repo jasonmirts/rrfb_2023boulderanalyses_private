@@ -25,10 +25,10 @@ library("rstatix")
 library("plotly")
 
 # Set working directory
-setwd("C:/0_data")
+setwd("directoryhere")
 
 # Call the Excel workbook and sheet
-bleach_sheet = read_excel("C:/0_data/Tray Nursery Monitoring Database IN PROG..xlsx",
+bleach_sheet = read_excel("excelworkbookhere",
                           sheet = 5)
 
 ## ---- Reformat columns ----
