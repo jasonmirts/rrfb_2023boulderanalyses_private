@@ -1,4 +1,4 @@
-**This repository is a modified version of the original, which is protected under Reef Renewal Foundation Bonaire's intellectual property. It has been adapted for public use 
+s**This repository is a modified version of the original, which is protected under Reef Renewal Foundation Bonaire's intellectual property. It has been adapted for public use 
 and does not include all proprietary documents. Please contact jason@reefrenewalbonaire.org for inquiries.**
 
 Reef Renewal Foundation Bonaire 2023 Boulder Coral Analyses README
@@ -43,52 +43,33 @@ R:
 
 2. Installation Instructions
 ----------------------------
-
 - Download latest version of [R](https://www.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/)
 - Download [Quarto](https://quarto.org/)
 - Download the project files by cloning the [rrfb_2023boulderanalyses_public repository](https://github.com/jasonmirts/rrfb_2023boulderanalyses_public.git)
-- Open R Studio
-- Install and load packages 
-- Set the directory
-- Run the full code
 
 3. Usage
 ---------
+- Open R Studio
+- Set the directory to the Excel workbook "Tray Nursery Monitoring Database IN PROG..xlsx"
+- After installing the necessary packages, run each of the following R scripts to load and analyze each metric:
+    source("BleachingSourceCode2023.R")
+    source("ResilienceSourceCode2023.R")
+    source("SurvivorshipSourceCode2023.R")
 
-
-Example:
-- After installing the necessary packages, run the following R script to load and analyze the data:
-    source("analysis_script.R")
-- You can view results by opening the "output.html" file generated after running the analysis.
+View results in R/Quarto as necessary.
 
 4. License
 ----------
-Provide the license for your project, indicating how others can use, modify, and distribute it.
-
-Example:
-This project is licensed under the MIT License. See LICENSE.txt for details.
+Copyright © 2025 Jason Mirtspoulos and Reef Renewal Foundation Bonaire (RRFB). All Rights Reserved.
+This script and its contents are the intellectual property of the author.
+Unauthorized distribution, reproduction, or use of this material without prior written permission from the author is strictly prohibited.
 
 5. Contact Information
 ----------------------
-Provide contact information for users to reach out if they have any questions, bugs, or contributions. 
-
-Example:
-For questions or issues, contact:
-John Doe
-email@example.com
+For inquiries, please contact jason@reefrenewalbonaire.org
 
 6. Acknowledgements
 -------------------
-Give credit to any contributors, libraries, or resources that helped with your project.
+Credit to Jason Mirtsopoulos and Reef Renewal Foundation Bonaire.
 
-Example:
-- Credit to the authors of the ggplot2 and dplyr packages for their outstanding work.
-- This project was developed with funding from the Coral Restoration Fund.
-
-Additional Notes (Optional)
-----------------------------
-Include any other important details, caveats, or special instructions. This section can be optional, depending on the complexity of your project.
-
-Example:
-- Please note that the data used in this project is only valid for the years 2020–2023.
-- The project is still in development; additional features are coming soon.
+Thanks to Sanne Tuijiten and the Reef Renewal Foundation Bonaire team for their dedication to making the planet a better place.
