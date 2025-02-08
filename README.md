@@ -44,7 +44,7 @@ R:
 2. Installation Instructions
 ----------------------------
 
-- Download latest version of [R]([https://example.com](https://www.r-project.org/)]
+- Download latest version of [R](https://www.r-project.org/)
  
 - Download [https://github.com/username/project-name.git(https://posit.co/download/rstudio-desktop/](https://quarto.org/)](R Studio]  
 - Download the project files by cloning the [https://github.com/username/project-name.git](rrfb_2023boulderanalyses repository]
