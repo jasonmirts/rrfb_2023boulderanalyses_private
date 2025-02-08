@@ -46,11 +46,11 @@ R:
 
 - Download latest version of [R](https://www.r-project.org/) and [R Studio](https://posit.co/download/rstudio-desktop/)
 - Download [Quarto](https://quarto.org/)
-- Download the project files by cloning the [rrfb_2023boulderanalyses repository](https://github.com/username/project-name.git)
+- Download the project files by cloning the [rrfb_2023boulderanalyses_public repository](https://github.com/jasonmirts/rrfb_2023boulderanalyses_public.git)
 - Open R Studio
 - Install and load packages 
 - Set the directory
-- Run the code
+- Run the full code
 
 3. Usage
 ---------
