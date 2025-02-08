@@ -1,5 +1,5 @@
 **This repository is a modified version of the original, which is protected under Reef Renewal Foundation Bonaire's intellectual property. It has been adapted for public use 
-and does not include all proprietary documents. Please contact Jason Mirtsopoulos @ jason@reefrenewalbonaire.org for more inquiries**
+and does not include all proprietary documents. Please contact jason@reefrenewalbonaire.org for inquiries**
 
 Reef Renewal Foundation Bonaire 2023 Boulder Coral Analyses README
 -------------
